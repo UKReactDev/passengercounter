@@ -36,3 +36,14 @@ button {
     background: darkgreen;
 }
 
+.total-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.total-title{
+    font-weight: bold;
+    margin: 0 1rem 0;
+    font-size: 22px;
+}
